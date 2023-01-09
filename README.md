@@ -4,8 +4,7 @@
 
 <b>A Simple Privacy Browser.</b></br>
 
-<!-- <b>Apk Link (Try it yourself & I would love to hear your feedback 🙂):<b>
-  <br>https://drive.google.com/file/d/1Ser8PKnSWG6Gx-0LOalay8o1Ub9RxBZE/view?usp=sharing (v4.0.1) -->
+
 
 <b>Some ScreenShots(Actual App Even Looks Better 😃):</b></br>
 <img src="https://github.com/vivek-panchal/Web-Wise/blob/master/app_screenshots/Screenshot_20230109-195050.png" width=30% height=30%/>
@@ -16,6 +15,9 @@
 <img src="https://github.com/vivek-panchal/Web-Wise/blob/master/app_screenshots/tabs.png" width=30% height=30%/>
 <br>
 <br>
+
+<b> Download App👇</b>
+https://drive.google.com/drive/folders/1I2I79SWImGtW380w7WK4KoHwuBb7pMo-
   
  <b>Features👇 : </b>
 <ul>
