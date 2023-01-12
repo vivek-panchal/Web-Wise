@@ -1,6 +1,4 @@
-# Lets Browse
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Kotlin](https://img.shields.io/badge/Kotlin-100%25-brightgreen)
+
 
 <b>A Simple Privacy Browser.</b></br>
 
